@@ -2,7 +2,7 @@
 
 FullStack Developer and Information Security Enthusiast
 
-You can reach me on my [Linkedin](https://www.linkedin.com/in/henrique-teles-barbosa-303666195/)
+You can reach me on [Linkedin](https://www.linkedin.com/in/henrique-teles-barbosa-303666195/)
 <!--
 **Htbarbosa/Htbarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
