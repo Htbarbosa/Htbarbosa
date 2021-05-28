@@ -1,6 +1,6 @@
 ### Henrique Teles Barbosa
 
-I'm FullStack Developer and Information Security Enthusiast
+FullStack Developer and Information Security Enthusiast
 
 You can reach me on my [Linkedin](https://www.linkedin.com/in/henrique-teles-barbosa-303666195/)
 <!--
