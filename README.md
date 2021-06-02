@@ -1,6 +1,8 @@
 ### Henrique Teles Barbosa
 
-FullStack Developer and Information Security Enthusiast
+FullStack Developer and Information Security Enthusiast.
+
+I'm curently studying the JS ecosystem: Node, ReactJS, NextJS and ReactNative.
 
 You can reach me on [Linkedin](https://www.linkedin.com/in/henrique-teles-barbosa-303666195/) or in my personal [blog](https://htblog.vercel.app/)
 <!--
