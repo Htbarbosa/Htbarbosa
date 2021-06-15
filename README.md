@@ -1,6 +1,6 @@
 ### Henrique Teles Barbosa
 
-FullStack Developer and Information Security Enthusiast.
+FullStack Developer and Information Security Hobbyist Researcher.
 
 I'm currently studying the JS ecosystem: [Node](https://nodejs.org/), [ReactJS](https://reactjs.org/), [NextJS](https://nextjs.org/) and [ReactNative](https://reactnative.dev/).
 
