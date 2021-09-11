@@ -4,7 +4,7 @@ FullStack Developer and Information Security Hobbyist Researcher.
 
 I'm currently studying the JS ecosystem: [Node](https://nodejs.org/), [ReactJS](https://reactjs.org/), [NextJS](https://nextjs.org/) and [ReactNative](https://reactnative.dev/).
 
-You can reach me on [Linkedin](https://www.linkedin.com/in/henrique-teles-barbosa-303666195/) or in my personal [blog](https://htblog.vercel.app/)
+You can reach me on [Linkedin](https://www.linkedin.com/in/henrique-teles-barbosa-303666195/)
 <!--
 **Htbarbosa/Htbarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
