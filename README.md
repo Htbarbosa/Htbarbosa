@@ -2,7 +2,7 @@
 
 FullStack Developer and Information Security Hobbyist Researcher.
 
-I'm currently studying the JS ecosystem: [Node](https://nodejs.org/), [ReactJS](https://reactjs.org/), [NextJS](https://nextjs.org/) and [ReactNative](https://reactnative.dev/).
+I'm currently working and studying the JS ecosystem: [Node](https://nodejs.org/), [ReactJS](https://reactjs.org/), [NextJS](https://nextjs.org/) and [ReactNative](https://reactnative.dev/).
 
 You can reach me on [Linkedin](https://www.linkedin.com/in/henrique-teles-barbosa-303666195/)
 <!--
