@@ -1,6 +1,6 @@
 ### Henrique Teles Barbosa
 
-FullStack Developer and Information Security admirer.
+FullStack Developer.
 
 I'm currently working with the Javascript and Typescript ecosystem: [Node](https://nodejs.org/), [Vue](https://vuejs.org/) , [React](https://reactjs.org/) and [NextJS](https://nextjs.org/).
 
