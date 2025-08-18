@@ -2,7 +2,7 @@
 
 FullStack Developer.
 
-I'm currently working with the Javascript and Typescript ecosystem: [Node](https://nodejs.org/), [Vue](https://vuejs.org/) , [React](https://reactjs.org/) and [NextJS](https://nextjs.org/).
+[Node](https://nodejs.org/), [Vue](https://vuejs.org/) , [React](https://reactjs.org/), [NextJS](https://nextjs.org/) and [Java Spring Boot](https://spring.io/projects/spring-boot).
 
 You can reach me on [Linkedin](https://www.linkedin.com/in/henrique-teles-barbosa-303666195/)
 <!--
