@@ -4,7 +4,7 @@ FullStack Developer.
 
 [Node](https://nodejs.org/), [Vue](https://vuejs.org/) , [React](https://reactjs.org/), [NextJS](https://nextjs.org/) and [Java Spring Boot](https://spring.io/projects/spring-boot).
 
-You can reach me on [Linkedin](https://www.linkedin.com/in/henrique-teles-barbosa-303666195/)
+You can reach me on [Linkedin](https://www.linkedin.com/in/henrique-teles-barbosa/)
 <!--
 **Htbarbosa/Htbarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
