@@ -2,7 +2,7 @@
 
 FullStack Developer.
 
-Node, Vue , React, NextJS and Java Spring Boot.
+React, NextJS, Node, Vue and Java Spring Boot.
 
 You can reach me on [Linkedin](https://www.linkedin.com/in/henrique-teles-barbosa/)
 <!--
